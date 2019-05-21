@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm run lint server.js && mocha ./tests/index-spec.js",
     "start": "node server.js",
-    "lint": "lint"
+    "lint": "eslint"
   },
   "entry point": "server.js",
   "repository": {
