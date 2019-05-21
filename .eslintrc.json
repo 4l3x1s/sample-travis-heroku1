@@ -14,5 +14,10 @@
         "ecmaVersion": 2018
     },
     "rules": {
+    },
+    "engines": {
+        "node": "10.x" 
     }
 }
+
+    
